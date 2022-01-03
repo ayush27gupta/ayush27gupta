@@ -1,8 +1,5 @@
 ### Hi there,I am Ayush Gupta 👋
 
-<!--
-**ayush27gupta/ayush27gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
  <img align="right" alt="GIF" src="https://github.com/ayush27gupta/ayush27gupta/blob/main/code.gif" width="500" height="320" />
 
