@@ -3,7 +3,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/ayush27gupta/ayush27gupta/blob/main/code.gif" width="500" height="320" />
 
-## I'm a Web Developer Enthusiast!!
+## I'm a Web Enthusiast!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working as an Associate
 - 🌱 I’m currently learning Web development
